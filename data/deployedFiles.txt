@@ -1,0 +1,22 @@
+#File or directory name;type
+code/currentTime.sh;file
+code/helloWorld.sh;file
+config/git_config;file
+data/executableFiles.txt;file
+iso;directory
+Dockerfile;file
+images/docker.png;file
+data;directory
+lib/autoTestsLibrary.sh;file
+lib/commonLibrary.sh;file
+myApp.sh;file
+README.md;file
+run_tests.sh;file
+code;directory
+config;directory
+lib;directory
+iso/CentOS_version.iso;file
+logs;directory
+docker-compose.test.yml;file
+
+images;directory

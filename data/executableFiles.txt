@@ -1,0 +1,10 @@
+#Below list of files must have executable permissions set on them.
+#List the filenames with complete path
+code/currentTime.sh
+code/helloWorld.sh
+
+lib/autoTestsLibrary.sh
+lib/commonLibrary.sh
+myApp.sh
+run_tests.sh
+test.sh

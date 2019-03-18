@@ -1,0 +1,6 @@
+#FILENAME;PATTERN
+config/git_config;dockerImages
+run_tests.sh;test_suite
+
+
+
