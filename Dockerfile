@@ -1,5 +1,6 @@
 #Get the base docker image file
-FROM divyabhushan/learn_docker:ubuntu_yum_1.0
+#FROM divyabhushan/learn_docker:ubuntu_yum_1.0
+FROM ubuntu:latest
 
 #Install vim and git utilities
 RUN apt-get update \
