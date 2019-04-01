@@ -9,6 +9,7 @@ execute_scripts(){
 	
 	$SCRIPT_PATH/helloWorld.sh
 	$SCRIPT_PATH/currentTime.sh
+	$SCRIPT_PATH/run_tests.sh data/deployedFiles.txt data/executableFiles.txt data/patternSearch.txt
 }
 
 main(){
